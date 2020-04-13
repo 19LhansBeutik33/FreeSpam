@@ -6,7 +6,7 @@ import re, sys
 s = Session()
 
 try:
-	print("SMS Gratis Retas By : RED 💘 HAT - IndoSec\nGunakan kode negara (ex: 62xxxxx29)")
+	print("SMS Gratis Retas By : RED HAT - IndoSec\nGunakan kode negara (ex: 62xxxxx29)")
 	no = int(input("No    : "))
 except:
 	print("\n\t* Check your number phone! *")
